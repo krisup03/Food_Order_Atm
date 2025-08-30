@@ -1,2 +1,1 @@
-# Food_Order_Atm
-Technology used in this project is C++ and OOPS concept.
+This C++ project is a food order ATM simulation built on OOPS concepts. It uses classes, objects, and inheritance to manage food items, orders, and bills. The system offers a user-friendly menu, calculates costs, and generates receipts, effectively demonstrating core object-oriented principles in a practical application.
